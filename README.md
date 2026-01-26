@@ -8,6 +8,10 @@ This project is a JavaScript implementation of the **Caesar Cipher**, a classica
 
 The application provides both **encryption (encoding)** and **decryption (decoding)** capabilities through a clean web-based interface, allowing users to customize parameters such as shift value, alphabet, case handling, and foreign character behavior.
 
+
+![Project Demo](https://caesarian-cipher-47n3z1p6k-chidubem-rubeluchukwuisis-projects.vercel.app/)
+
+![Project Image](caesar.png)
 ---
 
 ## Features
