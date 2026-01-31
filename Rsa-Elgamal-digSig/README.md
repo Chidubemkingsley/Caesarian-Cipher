@@ -1,6 +1,6 @@
 ---
 
-# 🔐  A Structured Guide Using RSA And ElGamal Extention To Digital Signatures.
+# A Structured Guide Using RSA And ElGamal Extention To Digital Signatures.
 
 This repository is a **hands-on guide to digital signatures**, implemented in **clean, runnable JavaScript**.
 
