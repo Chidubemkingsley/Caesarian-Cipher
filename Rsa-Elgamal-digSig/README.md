@@ -1,5 +1,3 @@
----
-
 # A Structured Guide Using RSA And ElGamal Extention To Digital Signatures.
 
 This repository is a **hands-on guide to digital signatures**, implemented in **clean, runnable JavaScript**.
@@ -13,7 +11,6 @@ You will learn:
 
 This project is **educational-first**, but still **realistic and correct**.
 
----
 
 ## 📁 Project Structure
 
